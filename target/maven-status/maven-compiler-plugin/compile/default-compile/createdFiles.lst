@@ -1,0 +1,8 @@
+Reducers/WordMatchReducer.class
+Reducers/WordMatchReducer$WordRecord.class
+Common/Constants.class
+Controllers/WordMatchController.class
+Utils/WordMatchOutputFormat.class
+Services/WordMatchService.class
+Mappers/WordMatchMapper.class
+Utils/CacheLoader.class
